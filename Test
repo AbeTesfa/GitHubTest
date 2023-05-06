@@ -1,0 +1,6 @@
+x= 5
+def multiply_by_two(x):
+    print(multiplying' + str(x) + 'by 2')
+    return x*2
+
+    print (multiplp)
